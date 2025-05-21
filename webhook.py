@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, timezone
 from dateutil.parser import parse
 
 app = Flask(__name__)
-API_KEY = "0a19a98ddde4d277ee5f7daf614d0e9d"
+API_KEY = "_YOUR_API_KEY_HERE_"
 
 @app.route('/webhook', methods=['POST'])
 def webhook():
