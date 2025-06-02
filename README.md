@@ -11,3 +11,4 @@ Now test the bot in the top right corner labelled "Try it now".
 in the current version run the same query twice to get the result 
 as for the 8 day forecast, the free api only lets you get data 5 days ahead.
 visit the site https://openweathermap.org for their different API calls which forecasts for different time brackets
+the current code was run on a pre-built bot (had its own intents and training examples) 
